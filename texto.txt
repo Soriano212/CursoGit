@@ -1,6 +1,8 @@
 Git y Bitbucket son 2 
 herramientas imprescindibles 
-al crear software, sobre todo 
+al crear software, 
+nos ayudan a controlar las versiones del código entre distintas capas
+sobre todo 
 cuando se trabaja en equipo 
 y el software se divide en 
 varias partes.
