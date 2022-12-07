@@ -1,0 +1,6 @@
+Git y Bitbucket son 2 
+herramientas imprescindibles 
+al crear software, sobre todo 
+cuando se trabaja en equipo 
+y el software se divide en 
+varias partes.
