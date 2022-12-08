@@ -4,9 +4,7 @@ al crear software,
 incluso si no eres un algo
 Hola como estas
 
-
-Me gusta mucho git y GitHub
-
+nueva funcion god
 
 Yo estoy bien
 Regresando a version 4
