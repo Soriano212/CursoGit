@@ -1,0 +1,7 @@
+Git y GitHub son 2 
+herramientas imprescindibles 
+al crear software, 
+nos ayudan a controlar las versiones del código entre distintas capas
+sobre todo 
+cuando se trabaja en equipo 
+y nos sirven para decorar el código para presentar.
