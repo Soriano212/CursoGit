@@ -2,3 +2,5 @@ Git y GitHub son 2
 herramientas imprescindibles 
 al crear software, 
 incluso si no eres un algo
+Hola como estas
+Yo estoy bien
